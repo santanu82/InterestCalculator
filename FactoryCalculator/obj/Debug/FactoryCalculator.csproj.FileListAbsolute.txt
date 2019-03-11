@@ -1,0 +1,6 @@
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\FactoryCalculator\bin\Debug\FactoryCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\FactoryCalculator\bin\Debug\FactoryCalculator.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\FactoryCalculator\obj\Debug\FactoryCalculator.csprojAssemblyReference.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\FactoryCalculator\obj\Debug\FactoryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\FactoryCalculator\obj\Debug\FactoryCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\FactoryCalculator\obj\Debug\FactoryCalculator.pdb

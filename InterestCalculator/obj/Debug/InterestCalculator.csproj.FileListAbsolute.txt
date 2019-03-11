@@ -1,0 +1,9 @@
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\bin\Debug\InterestCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\obj\Debug\InterestCalculator.csprojAssemblyReference.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\obj\Debug\InterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\obj\Debug\InterestCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\obj\Debug\InterestCalculator.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\bin\Debug\FactoryCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\bin\Debug\FactoryCalculator.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator\obj\Debug\InterestCalculator.csproj.CopyComplete

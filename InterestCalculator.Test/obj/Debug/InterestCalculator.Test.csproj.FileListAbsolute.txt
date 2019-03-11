@@ -1,0 +1,14 @@
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\InterestCalculator.Test.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\InterestCalculator.Test.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\nunit.framework.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\nunit.framework.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\nunit.framework.xml
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\obj\Debug\InterestCalculator.Test.csprojAssemblyReference.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\obj\Debug\InterestCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\obj\Debug\InterestCalculator.Test.csproj.CopyComplete
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\obj\Debug\InterestCalculator.Test.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\obj\Debug\InterestCalculator.Test.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\InterestCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\InterestCalculator.pdb
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\FactoryCalculator.dll
+C:\Users\chagali\Documents\Visual Studio 2017\Projects\InterestRatesApp\InterestCalculator.Test\bin\Debug\FactoryCalculator.pdb
